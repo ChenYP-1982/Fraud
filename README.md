@@ -1,6 +1,7 @@
 # Fraud
 
-## Fraud Detection Model Readme
+## Fraud Detection 
+
 ### Overview
 Welcome to the Fraud Detection Model! This model is designed to play a crucial role in identifying and preventing fraudulent activities within various systems and processes. Fraud can have severe consequences, including financial losses, damage to reputation, and legal ramifications. Hence, the implementation of an effective fraud detection model is essential to safeguard against these risks.
 
